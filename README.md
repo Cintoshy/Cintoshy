@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi ka-devvy 👋 It's me Cintoshy!
 
 <!--
 **Cintoshy/Cintoshy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
